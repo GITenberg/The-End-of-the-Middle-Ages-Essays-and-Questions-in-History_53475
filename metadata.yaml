@@ -1,0 +1,46 @@
+_repo: The-End-of-the-Middle-Ages-Essays-and-Questions-in-History_53475
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robinson, A. Mary F. (Agnes Mary Frances)
+    aliases:
+    - Robinson, Mary
+    - Duclaux, Mary
+    - Robinson, Agnes Mary Frances
+    - Duclaux, Agnes Mary Frances Robinson
+    - Darmesteter, Mary
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '6223'
+    url: http://www.gutenberg.org/2009/agents/6223
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Mary_Frances_Duclaux
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53475'
+  lccn: 04029485
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milan (Italy) -- History'
+- !lcsh 'Gertrude, the Great, Saint, 1256-1302'
+- !lcsh 'Malatesta family'
+- !lcsh 'Medici, Piero di Lorenzo de'', 1472-1503'
+- !lcsh 'Italy -- History -- 1268-1492'
+- !lcsh 'Mysticism -- History -- Middle Ages, 600-1500'
+- !lcc 'DG'
+- !lcsh 'Beghards'
+- !lcsh 'Pisa (Italy) -- History'
+- !lcsh 'Beguines'
+- !lcsh 'Visconti, Valentine, duchesse d'' Orléans, 1366-1408'
+- !lcsh 'Schism, The Great Western, 1378-1417'
+- GITenberg
+tableOfContents: The Beguines and the Weaving brothers -- The convent of Helfta --
+  The attraction of the abyss -- The schism -- Valentine Visconti -- The French claim
+  to Milan -- The Malatestas of Rimini -- The ladies of Milan -- The flight of Piero
+  de' Medici -- The French at Pisa.
+title: 'The End of the Middle Ages: Essays and Questions in History'
+url: http://www.gutenberg.org/ebooks/53475
