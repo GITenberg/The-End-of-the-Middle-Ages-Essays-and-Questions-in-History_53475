@@ -1,5 +1,8 @@
 _repo: The-End-of-the-Middle-Ages-Essays-and-Questions-in-History_53475
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53475-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, A. Mary F. (Agnes Mary Frances)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6223
     wikipedia: http://en.wikipedia.org/wiki/Agnes_Mary_Frances_Duclaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53475#The-End-of-the-Middle-Ages-Essays-and-Questions-in-History
 gutenberg_issued: '2016-11-07'
 gutenberg_type: Text
 identifiers:
